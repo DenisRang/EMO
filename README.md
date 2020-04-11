@@ -2,4 +2,4 @@
 We propose a project called "EMO" which represents system using deep neural networks for utilizing facial emotions of patients from videos produced by usual cameras like phone, tablet or surveil-lance cameras. It can evaluate how positive and brightly expressed emotions of patients are in different scenarios.
 
 ## Promo
-[![Watch the video](https://imgur.com/a/qZidogS.png)](https://youtu.be/6utLv6aBzBk)
+[![Watch the video](https://ibb.co/WV6qL0y)](https://youtu.be/6utLv6aBzBk)
